@@ -15,6 +15,6 @@ print(schooling)
 /*:
  Does the above code compile? Why is this different than trying to update a constant? Print your explanation to the console using the `print` function.
  */
-// this is different than constant because this is a variable and you can change it through out your code. It does not have to be constant 
+print("this is different than constant because this is a variable and you can change it through out your code. It does not have to be constant")
 
 //: [Previous](@previous)  |  page 3 of 10  |  [Next: App Exercise - Step Count](@next)
