@@ -17,8 +17,8 @@ var age = 17
 // the age will change every year
 var steps = 1000
 // the steps will change every day
-var goal = 10000
-//the goal will always stay the same, unless the person want's to change it, so its a variable
+let goal = 10000
+//the goal will always stay the same, unless the person want's to change it, 
 var heartrate = 70
 // the average heart rate will also change every day
 
