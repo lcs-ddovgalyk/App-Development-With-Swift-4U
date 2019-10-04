@@ -10,7 +10,13 @@
  
  For each of the metrics above, declare either a constant or a variable and assign it a value corresponding to a hypothetical post. Be sure to use proper naming conventions.
  */
-
+var likes = 0
+var comments = 0
+// likes and comments have to be a variable because they will change
+let year = 2019
+let month = 10
+let day = 1
+// year, month, day can be a constant since they will never change
 
 
 
