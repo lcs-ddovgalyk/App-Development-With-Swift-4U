@@ -33,6 +33,5 @@ print("You've got some spending money")
 if dollars < 100 {
 print("Looks to me like you're rich!")
 }
-// forgot how to do an else if statement which would make this easier.
 //also is there a way to do somethins like 0 < dollars > 100 ?
 //: [Previous](@previous)  |  page 2 of 9  |  [Next: App Exercise - Fitness Decisions](@next)
